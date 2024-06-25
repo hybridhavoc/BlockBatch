@@ -1,0 +1,3 @@
+ip,severity,comment,expires_in
+101.99.84.87/32,sign_up_requires_approval,Sample,600
+101.99.92.179,sign_up_block,Sample,600

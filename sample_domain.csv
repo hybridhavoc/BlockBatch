@@ -1,0 +1,4 @@
+domain,severity,reject_media,reject_reports,public_comment,obfuscate
+076.moe,suspend,FALSE,FALSE,,FALSE
+076.ne.jp,suspend,FALSE,FALSE,,FALSE
+101010.pl,suspend,FALSE,FALSE,,FALSE

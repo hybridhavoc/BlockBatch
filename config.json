@@ -1,0 +1,6 @@
+{
+    "access-token": "[access token, requires admin:read:domain_blocks, admin:read:email_domain_blocks, admin:read:ip_blocks, admin:write:domain_blocks, admin:write:email_domain_blocks, admin:write:ip_blocks]",
+    "server": "[domain.tld]",
+    "log-directory": "logs",
+    "logging-level": "[select one of: debug, info, error]"
+}
